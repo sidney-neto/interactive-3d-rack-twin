@@ -14,7 +14,9 @@ Interactive 3D Rack Twin is a browser-based viewer for exploring a server rack, 
 
 <div align="center">
 
-<video src="media/demo.mp4" controls width="800" aria-label="Interactive 3D Rack Twin demo"></video>
+<a href="media/demo.mp4"><img src="docs/images/rebrand/overview.png" width="800" alt="Interactive 3D Rack Twin demo — click to open the video"></a>
+
+[▶ Watch the demo (MP4)](media/demo.mp4)
 
 </div>
 
