@@ -1,0 +1,70 @@
+[
+  {
+    "id": "SWITCH-01",
+    "name": "Dell PowerSwitch S5232F-ON #1",
+    "type": "switch",
+    "manufacturer": "Dell",
+    "model": "PowerSwitch S5232F-ON",
+    "status": "unknown",
+    "rackId": "RACK-01",
+    "rackPosition": {
+      "startU": 44,
+      "heightU": 1
+    },
+    "geometry": {
+      "width": 0.434,
+      "height": 0.0436,
+      "depth": 0.46,
+      "modelUrl": "/assets/models/switches/powerswitch-s5232f-on.glb"
+    },
+    "ports": {
+      "quantity": 32,
+      "speedGbps": 100,
+      "connector": "QSFP28"
+    },
+    "management": "1 \u00d7 10/100/1000 Base-T OOB Ethernet; 1 \u00d7 RJ45 serial console; 1 \u00d7 MicroUSB-B console; 1 \u00d7 USB Type-A",
+    "additionalPorts": {
+      "quantity": 2,
+      "speedGbps": 10,
+      "connector": "SFP+"
+    },
+    "powerSupplies": 2,
+    "fanModules": 4,
+    "airflowMode": "unspecified",
+    "role": "Top-of-Rack Ethernet Switch"
+  },
+  {
+    "id": "SWITCH-02",
+    "name": "Dell PowerSwitch S5232F-ON #2",
+    "type": "switch",
+    "manufacturer": "Dell",
+    "model": "PowerSwitch S5232F-ON",
+    "status": "unknown",
+    "rackId": "RACK-01",
+    "rackPosition": {
+      "startU": 43,
+      "heightU": 1
+    },
+    "geometry": {
+      "width": 0.434,
+      "height": 0.0436,
+      "depth": 0.46,
+      "modelUrl": "/assets/models/switches/powerswitch-s5232f-on.glb"
+    },
+    "ports": {
+      "quantity": 32,
+      "speedGbps": 100,
+      "connector": "QSFP28"
+    },
+    "management": "1 \u00d7 10/100/1000 Base-T OOB Ethernet; 1 \u00d7 RJ45 serial console; 1 \u00d7 MicroUSB-B console; 1 \u00d7 USB Type-A",
+    "additionalPorts": {
+      "quantity": 2,
+      "speedGbps": 10,
+      "connector": "SFP+"
+    },
+    "powerSupplies": 2,
+    "fanModules": 4,
+    "airflowMode": "unspecified",
+    "role": "Top-of-Rack Ethernet Switch"
+  }
+]

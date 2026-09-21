@@ -1,0 +1,18 @@
+{
+  "id": "RACK-01",
+  "name": "Rack 44U",
+  "type": "rack",
+  "manufacturer": "Generic",
+  "model": "44U infrastructure rack",
+  "status": "online",
+  "units": 44,
+  "location": "Infrastructure lab / Rack 01",
+  "geometry": {
+    "width": 0.6,
+    "depth": 1.05,
+    "height": 2.14,
+    "unitHeight": 0.04445,
+    "baseHeight": 0.1,
+    "modelUrl": null
+  }
+}

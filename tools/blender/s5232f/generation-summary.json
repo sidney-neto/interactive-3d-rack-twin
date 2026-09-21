@@ -1,0 +1,34 @@
+{
+  "chassis_mm_WDH": [
+    434.0,
+    460.0,
+    43.6
+  ],
+  "overall_mm_WDH": [
+    482.6,
+    466.25,
+    43.6
+  ],
+  "nodes": 212,
+  "unique_glb_meshes": 80,
+  "triangles": 18498,
+  "glb_bytes": 447664,
+  "glb_mb": 0.448,
+  "counts": {
+    "qsfp28": 32,
+    "sfpplus": 2,
+    "psu": 2,
+    "fan_module": 4,
+    "mgmt_rj45": 1,
+    "console_rj45": 1,
+    "console_microusb": 1,
+    "usb_type_a": 1
+  },
+  "rack_units": 1,
+  "extras": "VERIFIED",
+  "orientation": "VERIFIED: Y-up, I/O +Z, PSU -Z",
+  "blender_version": "5.2.1 LTS",
+  "blender_objects": 212,
+  "blender_mesh_objects": 159,
+  "blender_unique_meshes": 80
+}

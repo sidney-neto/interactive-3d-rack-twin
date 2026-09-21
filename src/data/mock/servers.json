@@ -1,0 +1,114 @@
+[
+  {
+    "id": "SERVER-01",
+    "name": "Dell PowerEdge XE7745 #1",
+    "type": "server",
+    "manufacturer": "Dell",
+    "model": "PowerEdge XE7745",
+    "status": "online",
+    "rackId": "RACK-01",
+    "rackPosition": {
+      "startU": 39,
+      "heightU": 4
+    },
+    "geometry": {
+      "width": 0.482,
+      "height": 0.1743,
+      "depth": 0.89956,
+      "modelUrl": "/assets/models/servers/poweredge-xe7745.glb"
+    },
+    "cpu": {
+      "quantity": 2,
+      "model": "AMD EPYC 9555",
+      "coresPerCpu": 64,
+      "threadsPerCpu": 128
+    },
+    "memory": {
+      "quantity": 24,
+      "capacityPerDimmGB": 64,
+      "generation": "DDR5",
+      "speed": "6400 MT/s"
+    },
+    "gpu": {
+      "quantity": 4,
+      "model": "NVIDIA H200",
+      "memoryGB": 141,
+      "interconnect": {
+        "type": "NVLink",
+        "topology": "4-way",
+        "slots": [21, 23, 25, 27]
+      }
+    },
+    "storage": {
+      "boss": {
+        "quantity": 2,
+        "capacityGB": 960,
+        "type": "NVMe M.2"
+      },
+      "ssd": {
+        "quantity": 8,
+        "capacityTB": 3.2
+      }
+    },
+    "network": {
+      "interfaces25G": 2,
+      "interfaces100G": 4
+    }
+  },
+  {
+    "id": "SERVER-02",
+    "name": "Dell PowerEdge XE7745 #2",
+    "type": "server",
+    "manufacturer": "Dell",
+    "model": "PowerEdge XE7745",
+    "status": "online",
+    "rackId": "RACK-01",
+    "rackPosition": {
+      "startU": 35,
+      "heightU": 4
+    },
+    "geometry": {
+      "width": 0.482,
+      "height": 0.1743,
+      "depth": 0.89956,
+      "modelUrl": "/assets/models/servers/poweredge-xe7745.glb"
+    },
+    "cpu": {
+      "quantity": 2,
+      "model": "AMD EPYC 9555",
+      "coresPerCpu": 64,
+      "threadsPerCpu": 128
+    },
+    "memory": {
+      "quantity": 24,
+      "capacityPerDimmGB": 64,
+      "generation": "DDR5",
+      "speed": "6400 MT/s"
+    },
+    "gpu": {
+      "quantity": 4,
+      "model": "NVIDIA H200",
+      "memoryGB": 141,
+      "interconnect": {
+        "type": "NVLink",
+        "topology": "4-way",
+        "slots": [21, 23, 25, 27]
+      }
+    },
+    "storage": {
+      "boss": {
+        "quantity": 2,
+        "capacityGB": 960,
+        "type": "NVMe M.2"
+      },
+      "ssd": {
+        "quantity": 8,
+        "capacityTB": 3.2
+      }
+    },
+    "network": {
+      "interfaces25G": 2,
+      "interfaces100G": 4
+    }
+  }
+]

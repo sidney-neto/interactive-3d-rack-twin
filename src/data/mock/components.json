@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "SERVER-01.PSU-01",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "PSU-01",
+    "slot": "PSU-01",
+    "assetType": "power-supply",
+    "manufacturer": "Not specified in configured inventory",
+    "model": "Not specified in configured inventory",
+    "status": "unknown",
+    "description": "Rear removable power supply. Static bay inventory only; no live power or health measurements.",
+    "specifications": {
+      "location": "rear"
+    },
+    "details": {
+      "Rated output": "Not specified in configured inventory",
+      "Input rating": "Not specified in configured inventory",
+      "Efficiency": "Not specified in configured inventory"
+    }
+  },
+  {
+    "id": "SERVER-01.PSU-02",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "PSU-02",
+    "slot": "PSU-02",
+    "assetType": "power-supply",
+    "manufacturer": "Not specified in configured inventory",
+    "model": "Not specified in configured inventory",
+    "status": "unknown",
+    "description": "Rear removable power supply. Static bay inventory only; no live power or health measurements.",
+    "specifications": {
+      "location": "rear"
+    },
+    "details": {
+      "Rated output": "Not specified in configured inventory",
+      "Input rating": "Not specified in configured inventory",
+      "Efficiency": "Not specified in configured inventory"
+    }
+  },
+  {
+    "id": "SERVER-01.PSU-03",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "PSU-03",
+    "slot": "PSU-03",
+    "assetType": "power-supply",
+    "manufacturer": "Not specified in configured inventory",
+    "model": "Not specified in configured inventory",
+    "status": "unknown",
+    "description": "Rear removable power supply. Static bay inventory only; no live power or health measurements.",
+    "specifications": {
+      "location": "rear"
+    },
+    "details": {
+      "Rated output": "Not specified in configured inventory",
+      "Input rating": "Not specified in configured inventory",
+      "Efficiency": "Not specified in configured inventory"
+    }
+  },
+  {
+    "id": "SERVER-01.PSU-04",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "PSU-04",
+    "slot": "PSU-04",
+    "assetType": "power-supply",
+    "manufacturer": "Not specified in configured inventory",
+    "model": "Not specified in configured inventory",
+    "status": "unknown",
+    "description": "Rear removable power supply. Static bay inventory only; no live power or health measurements.",
+    "specifications": {
+      "location": "rear"
+    },
+    "details": {
+      "Rated output": "Not specified in configured inventory",
+      "Input rating": "Not specified in configured inventory",
+      "Efficiency": "Not specified in configured inventory"
+    }
+  },
+  {
+    "id": "SERVER-01.PSU-05",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "PSU-05",
+    "slot": "PSU-05",
+    "assetType": "power-supply",
+    "manufacturer": "Not specified in configured inventory",
+    "model": "Not specified in configured inventory",
+    "status": "unknown",
+    "description": "Rear removable power supply. Static bay inventory only; no live power or health measurements.",
+    "specifications": {
+      "location": "rear"
+    },
+    "details": {
+      "Rated output": "Not specified in configured inventory",
+      "Input rating": "Not specified in configured inventory",
+      "Efficiency": "Not specified in configured inventory"
+    }
+  },
+  {
+    "id": "SERVER-01.PSU-06",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "PSU-06",
+    "slot": "PSU-06",
+    "assetType": "power-supply",
+    "manufacturer": "Not specified in configured inventory",
+    "model": "Not specified in configured inventory",
+    "status": "unknown",
+    "description": "Rear removable power supply. Static bay inventory only; no live power or health measurements.",
+    "specifications": {
+      "location": "rear"
+    },
+    "details": {
+      "Rated output": "Not specified in configured inventory",
+      "Input rating": "Not specified in configured inventory",
+      "Efficiency": "Not specified in configured inventory"
+    }
+  },
+  {
+    "id": "SERVER-01.PSU-07",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "PSU-07",
+    "slot": "PSU-07",
+    "assetType": "power-supply",
+    "manufacturer": "Not specified in configured inventory",
+    "model": "Not specified in configured inventory",
+    "status": "unknown",
+    "description": "Rear removable power supply. Static bay inventory only; no live power or health measurements.",
+    "specifications": {
+      "location": "rear"
+    },
+    "details": {
+      "Rated output": "Not specified in configured inventory",
+      "Input rating": "Not specified in configured inventory",
+      "Efficiency": "Not specified in configured inventory"
+    }
+  },
+  {
+    "id": "SERVER-01.PSU-08",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "PSU-08",
+    "slot": "PSU-08",
+    "assetType": "power-supply",
+    "manufacturer": "Not specified in configured inventory",
+    "model": "Not specified in configured inventory",
+    "status": "unknown",
+    "description": "Rear removable power supply. Static bay inventory only; no live power or health measurements.",
+    "specifications": {
+      "location": "rear"
+    },
+    "details": {
+      "Rated output": "Not specified in configured inventory",
+      "Input rating": "Not specified in configured inventory",
+      "Efficiency": "Not specified in configured inventory"
+    }
+  },
+  {
+    "id": "SERVER-01.NVLINK-01",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "NVLink bridge",
+    "slot": "NVLINK-01",
+    "assetType": "gpu-interconnect",
+    "manufacturer": "NVIDIA",
+    "model": "4-way NVLink bridge (simplified representation)",
+    "status": "unknown",
+    "description": "GPU-to-GPU data and memory communication for the configured accelerator group. NVLink is not a file-copy service, disk interface, or Ethernet connection. The detached exploded bridge represents no active electrical connection.",
+    "details": {
+      "Exact bridge SKU": "Not specified in configured inventory",
+      "Per-GPU bandwidth": "Not specified in configured inventory",
+      "Per-link bandwidth": "Not specified in configured inventory",
+      "Aggregate bandwidth": "Not specified in configured inventory",
+      "Directional rating": "Not specified in configured inventory",
+      "NVLink generation": "Not specified in configured inventory"
+    },
+    "references": [
+      {
+        "title": "NVIDIA H200 NVL reference topology",
+        "url": "https://docs.nvidia.com/enterprise-reference-architectures/white-paper/latest/appendix-d.html"
+      }
+    ]
+  },
+  {
+    "id": "SERVER-02.PSU-01",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "PSU-01",
+    "slot": "PSU-01",
+    "assetType": "power-supply",
+    "manufacturer": "Not specified in configured inventory",
+    "model": "Not specified in configured inventory",
+    "status": "unknown",
+    "description": "Rear removable power supply. Static bay inventory only; no live power or health measurements.",
+    "specifications": {
+      "location": "rear"
+    },
+    "details": {
+      "Rated output": "Not specified in configured inventory",
+      "Input rating": "Not specified in configured inventory",
+      "Efficiency": "Not specified in configured inventory"
+    }
+  },
+  {
+    "id": "SERVER-02.PSU-02",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "PSU-02",
+    "slot": "PSU-02",
+    "assetType": "power-supply",
+    "manufacturer": "Not specified in configured inventory",
+    "model": "Not specified in configured inventory",
+    "status": "unknown",
+    "description": "Rear removable power supply. Static bay inventory only; no live power or health measurements.",
+    "specifications": {
+      "location": "rear"
+    },
+    "details": {
+      "Rated output": "Not specified in configured inventory",
+      "Input rating": "Not specified in configured inventory",
+      "Efficiency": "Not specified in configured inventory"
+    }
+  },
+  {
+    "id": "SERVER-02.PSU-03",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "PSU-03",
+    "slot": "PSU-03",
+    "assetType": "power-supply",
+    "manufacturer": "Not specified in configured inventory",
+    "model": "Not specified in configured inventory",
+    "status": "unknown",
+    "description": "Rear removable power supply. Static bay inventory only; no live power or health measurements.",
+    "specifications": {
+      "location": "rear"
+    },
+    "details": {
+      "Rated output": "Not specified in configured inventory",
+      "Input rating": "Not specified in configured inventory",
+      "Efficiency": "Not specified in configured inventory"
+    }
+  },
+  {
+    "id": "SERVER-02.PSU-04",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "PSU-04",
+    "slot": "PSU-04",
+    "assetType": "power-supply",
+    "manufacturer": "Not specified in configured inventory",
+    "model": "Not specified in configured inventory",
+    "status": "unknown",
+    "description": "Rear removable power supply. Static bay inventory only; no live power or health measurements.",
+    "specifications": {
+      "location": "rear"
+    },
+    "details": {
+      "Rated output": "Not specified in configured inventory",
+      "Input rating": "Not specified in configured inventory",
+      "Efficiency": "Not specified in configured inventory"
+    }
+  },
+  {
+    "id": "SERVER-02.PSU-05",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "PSU-05",
+    "slot": "PSU-05",
+    "assetType": "power-supply",
+    "manufacturer": "Not specified in configured inventory",
+    "model": "Not specified in configured inventory",
+    "status": "unknown",
+    "description": "Rear removable power supply. Static bay inventory only; no live power or health measurements.",
+    "specifications": {
+      "location": "rear"
+    },
+    "details": {
+      "Rated output": "Not specified in configured inventory",
+      "Input rating": "Not specified in configured inventory",
+      "Efficiency": "Not specified in configured inventory"
+    }
+  },
+  {
+    "id": "SERVER-02.PSU-06",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "PSU-06",
+    "slot": "PSU-06",
+    "assetType": "power-supply",
+    "manufacturer": "Not specified in configured inventory",
+    "model": "Not specified in configured inventory",
+    "status": "unknown",
+    "description": "Rear removable power supply. Static bay inventory only; no live power or health measurements.",
+    "specifications": {
+      "location": "rear"
+    },
+    "details": {
+      "Rated output": "Not specified in configured inventory",
+      "Input rating": "Not specified in configured inventory",
+      "Efficiency": "Not specified in configured inventory"
+    }
+  },
+  {
+    "id": "SERVER-02.PSU-07",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "PSU-07",
+    "slot": "PSU-07",
+    "assetType": "power-supply",
+    "manufacturer": "Not specified in configured inventory",
+    "model": "Not specified in configured inventory",
+    "status": "unknown",
+    "description": "Rear removable power supply. Static bay inventory only; no live power or health measurements.",
+    "specifications": {
+      "location": "rear"
+    },
+    "details": {
+      "Rated output": "Not specified in configured inventory",
+      "Input rating": "Not specified in configured inventory",
+      "Efficiency": "Not specified in configured inventory"
+    }
+  },
+  {
+    "id": "SERVER-02.PSU-08",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "PSU-08",
+    "slot": "PSU-08",
+    "assetType": "power-supply",
+    "manufacturer": "Not specified in configured inventory",
+    "model": "Not specified in configured inventory",
+    "status": "unknown",
+    "description": "Rear removable power supply. Static bay inventory only; no live power or health measurements.",
+    "specifications": {
+      "location": "rear"
+    },
+    "details": {
+      "Rated output": "Not specified in configured inventory",
+      "Input rating": "Not specified in configured inventory",
+      "Efficiency": "Not specified in configured inventory"
+    }
+  },
+  {
+    "id": "SERVER-02.NVLINK-01",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "NVLink bridge",
+    "slot": "NVLINK-01",
+    "assetType": "gpu-interconnect",
+    "manufacturer": "NVIDIA",
+    "model": "4-way NVLink bridge (simplified representation)",
+    "status": "unknown",
+    "description": "GPU-to-GPU data and memory communication for the configured accelerator group. NVLink is not a file-copy service, disk interface, or Ethernet connection. The detached exploded bridge represents no active electrical connection.",
+    "details": {
+      "Exact bridge SKU": "Not specified in configured inventory",
+      "Per-GPU bandwidth": "Not specified in configured inventory",
+      "Per-link bandwidth": "Not specified in configured inventory",
+      "Aggregate bandwidth": "Not specified in configured inventory",
+      "Directional rating": "Not specified in configured inventory",
+      "NVLink generation": "Not specified in configured inventory"
+    },
+    "references": [
+      {
+        "title": "NVIDIA H200 NVL reference topology",
+        "url": "https://docs.nvidia.com/enterprise-reference-architectures/white-paper/latest/appendix-d.html"
+      }
+    ]
+  },
+  {
+    "id": "SERVER-01.GPU-01",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "GPU-01",
+    "slot": "GPU-01",
+    "assetType": "gpu",
+    "manufacturer": "NVIDIA",
+    "model": "NVIDIA H200",
+    "status": "online",
+    "description": "141 GB HBM3e · configured inventory"
+  },
+  {
+    "id": "SERVER-01.GPU-02",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "GPU-02",
+    "slot": "GPU-02",
+    "assetType": "gpu",
+    "manufacturer": "NVIDIA",
+    "model": "NVIDIA H200",
+    "status": "online",
+    "description": "141 GB HBM3e · configured inventory"
+  },
+  {
+    "id": "SERVER-01.GPU-03",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "GPU-03",
+    "slot": "GPU-03",
+    "assetType": "gpu",
+    "manufacturer": "NVIDIA",
+    "model": "NVIDIA H200",
+    "status": "online",
+    "description": "141 GB HBM3e · configured inventory"
+  },
+  {
+    "id": "SERVER-01.GPU-04",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "GPU-04",
+    "slot": "GPU-04",
+    "assetType": "gpu",
+    "manufacturer": "NVIDIA",
+    "model": "NVIDIA H200",
+    "status": "online",
+    "description": "141 GB HBM3e · configured inventory"
+  },
+  {
+    "id": "SERVER-01.CPU-A",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "CPU-A",
+    "slot": "CPU-A",
+    "assetType": "cpu",
+    "manufacturer": "AMD",
+    "model": "AMD EPYC 9555",
+    "status": "online",
+    "description": "64 cores / 128 threads · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-A01",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-A01",
+    "slot": "DIMM-A01",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-A02",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-A02",
+    "slot": "DIMM-A02",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-A03",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-A03",
+    "slot": "DIMM-A03",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-A04",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-A04",
+    "slot": "DIMM-A04",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-A05",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-A05",
+    "slot": "DIMM-A05",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-A06",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-A06",
+    "slot": "DIMM-A06",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-A07",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-A07",
+    "slot": "DIMM-A07",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-A08",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-A08",
+    "slot": "DIMM-A08",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-A09",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-A09",
+    "slot": "DIMM-A09",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-A10",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-A10",
+    "slot": "DIMM-A10",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-A11",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-A11",
+    "slot": "DIMM-A11",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-A12",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-A12",
+    "slot": "DIMM-A12",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.CPU-B",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "CPU-B",
+    "slot": "CPU-B",
+    "assetType": "cpu",
+    "manufacturer": "AMD",
+    "model": "AMD EPYC 9555",
+    "status": "online",
+    "description": "64 cores / 128 threads · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-B01",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-B01",
+    "slot": "DIMM-B01",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-B02",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-B02",
+    "slot": "DIMM-B02",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-B03",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-B03",
+    "slot": "DIMM-B03",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-B04",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-B04",
+    "slot": "DIMM-B04",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-B05",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-B05",
+    "slot": "DIMM-B05",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-B06",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-B06",
+    "slot": "DIMM-B06",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-B07",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-B07",
+    "slot": "DIMM-B07",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-B08",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-B08",
+    "slot": "DIMM-B08",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-B09",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-B09",
+    "slot": "DIMM-B09",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-B10",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-B10",
+    "slot": "DIMM-B10",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-B11",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-B11",
+    "slot": "DIMM-B11",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.DIMM-B12",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "DIMM-B12",
+    "slot": "DIMM-B12",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-01.NIC-25G-01",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "NIC-25G-01",
+    "slot": "NIC-25G-01",
+    "assetType": "network",
+    "manufacturer": "Unspecified",
+    "model": "25 GbE interface",
+    "status": "online",
+    "description": "Configured interface · link state unavailable"
+  },
+  {
+    "id": "SERVER-01.NIC-25G-02",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "NIC-25G-02",
+    "slot": "NIC-25G-02",
+    "assetType": "network",
+    "manufacturer": "Unspecified",
+    "model": "25 GbE interface",
+    "status": "online",
+    "description": "Configured interface · link state unavailable"
+  },
+  {
+    "id": "SERVER-01.NIC-100G-01",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "NIC-100G-01",
+    "slot": "NIC-100G-01",
+    "assetType": "network",
+    "manufacturer": "Unspecified",
+    "model": "100 GbE interface",
+    "status": "online",
+    "description": "Configured interface · link state unavailable"
+  },
+  {
+    "id": "SERVER-01.NIC-100G-02",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "NIC-100G-02",
+    "slot": "NIC-100G-02",
+    "assetType": "network",
+    "manufacturer": "Unspecified",
+    "model": "100 GbE interface",
+    "status": "online",
+    "description": "Configured interface · link state unavailable"
+  },
+  {
+    "id": "SERVER-01.NIC-100G-03",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "NIC-100G-03",
+    "slot": "NIC-100G-03",
+    "assetType": "network",
+    "manufacturer": "Unspecified",
+    "model": "100 GbE interface",
+    "status": "online",
+    "description": "Configured interface · link state unavailable"
+  },
+  {
+    "id": "SERVER-01.NIC-100G-04",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "NIC-100G-04",
+    "slot": "NIC-100G-04",
+    "assetType": "network",
+    "manufacturer": "Unspecified",
+    "model": "100 GbE interface",
+    "status": "online",
+    "description": "Configured interface · link state unavailable"
+  },
+  {
+    "id": "SERVER-01.BOSS",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "BOSS",
+    "slot": "BOSS",
+    "assetType": "storage",
+    "manufacturer": "Dell",
+    "model": "BOSS",
+    "status": "online",
+    "description": "Boot storage controller · configured inventory"
+  },
+  {
+    "id": "SERVER-01.BOSS-M2-01",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "BOSS-M2-01",
+    "slot": "BOSS-M2-01",
+    "assetType": "storage",
+    "manufacturer": "Unspecified",
+    "model": "960 GB NVMe M.2",
+    "status": "online",
+    "description": "BOSS boot drive · configured inventory"
+  },
+  {
+    "id": "SERVER-01.BOSS-M2-02",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "BOSS-M2-02",
+    "slot": "BOSS-M2-02",
+    "assetType": "storage",
+    "manufacturer": "Unspecified",
+    "model": "960 GB NVMe M.2",
+    "status": "online",
+    "description": "BOSS boot drive · configured inventory"
+  },
+  {
+    "id": "SERVER-01.SSD-01",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "SSD-01",
+    "slot": "SSD-01",
+    "assetType": "storage",
+    "manufacturer": "Unspecified",
+    "model": "3.2 TB SSD",
+    "status": "online",
+    "description": "Data drive · configured inventory"
+  },
+  {
+    "id": "SERVER-01.SSD-02",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "SSD-02",
+    "slot": "SSD-02",
+    "assetType": "storage",
+    "manufacturer": "Unspecified",
+    "model": "3.2 TB SSD",
+    "status": "online",
+    "description": "Data drive · configured inventory"
+  },
+  {
+    "id": "SERVER-01.SSD-03",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "SSD-03",
+    "slot": "SSD-03",
+    "assetType": "storage",
+    "manufacturer": "Unspecified",
+    "model": "3.2 TB SSD",
+    "status": "online",
+    "description": "Data drive · configured inventory"
+  },
+  {
+    "id": "SERVER-01.SSD-04",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "SSD-04",
+    "slot": "SSD-04",
+    "assetType": "storage",
+    "manufacturer": "Unspecified",
+    "model": "3.2 TB SSD",
+    "status": "online",
+    "description": "Data drive · configured inventory"
+  },
+  {
+    "id": "SERVER-01.SSD-05",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "SSD-05",
+    "slot": "SSD-05",
+    "assetType": "storage",
+    "manufacturer": "Unspecified",
+    "model": "3.2 TB SSD",
+    "status": "online",
+    "description": "Data drive · configured inventory"
+  },
+  {
+    "id": "SERVER-01.SSD-06",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "SSD-06",
+    "slot": "SSD-06",
+    "assetType": "storage",
+    "manufacturer": "Unspecified",
+    "model": "3.2 TB SSD",
+    "status": "online",
+    "description": "Data drive · configured inventory"
+  },
+  {
+    "id": "SERVER-01.SSD-07",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "SSD-07",
+    "slot": "SSD-07",
+    "assetType": "storage",
+    "manufacturer": "Unspecified",
+    "model": "3.2 TB SSD",
+    "status": "online",
+    "description": "Data drive · configured inventory"
+  },
+  {
+    "id": "SERVER-01.SSD-08",
+    "parentId": "SERVER-01",
+    "type": "component",
+    "name": "SSD-08",
+    "slot": "SSD-08",
+    "assetType": "storage",
+    "manufacturer": "Unspecified",
+    "model": "3.2 TB SSD",
+    "status": "online",
+    "description": "Data drive · configured inventory"
+  },
+  {
+    "id": "SERVER-02.GPU-01",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "GPU-01",
+    "slot": "GPU-01",
+    "assetType": "gpu",
+    "manufacturer": "NVIDIA",
+    "model": "NVIDIA H200",
+    "status": "online",
+    "description": "141 GB HBM3e · configured inventory"
+  },
+  {
+    "id": "SERVER-02.GPU-02",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "GPU-02",
+    "slot": "GPU-02",
+    "assetType": "gpu",
+    "manufacturer": "NVIDIA",
+    "model": "NVIDIA H200",
+    "status": "online",
+    "description": "141 GB HBM3e · configured inventory"
+  },
+  {
+    "id": "SERVER-02.GPU-03",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "GPU-03",
+    "slot": "GPU-03",
+    "assetType": "gpu",
+    "manufacturer": "NVIDIA",
+    "model": "NVIDIA H200",
+    "status": "online",
+    "description": "141 GB HBM3e · configured inventory"
+  },
+  {
+    "id": "SERVER-02.GPU-04",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "GPU-04",
+    "slot": "GPU-04",
+    "assetType": "gpu",
+    "manufacturer": "NVIDIA",
+    "model": "NVIDIA H200",
+    "status": "online",
+    "description": "141 GB HBM3e · configured inventory"
+  },
+  {
+    "id": "SERVER-02.CPU-A",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "CPU-A",
+    "slot": "CPU-A",
+    "assetType": "cpu",
+    "manufacturer": "AMD",
+    "model": "AMD EPYC 9555",
+    "status": "online",
+    "description": "64 cores / 128 threads · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-A01",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-A01",
+    "slot": "DIMM-A01",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-A02",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-A02",
+    "slot": "DIMM-A02",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-A03",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-A03",
+    "slot": "DIMM-A03",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-A04",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-A04",
+    "slot": "DIMM-A04",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-A05",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-A05",
+    "slot": "DIMM-A05",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-A06",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-A06",
+    "slot": "DIMM-A06",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-A07",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-A07",
+    "slot": "DIMM-A07",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-A08",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-A08",
+    "slot": "DIMM-A08",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-A09",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-A09",
+    "slot": "DIMM-A09",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-A10",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-A10",
+    "slot": "DIMM-A10",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-A11",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-A11",
+    "slot": "DIMM-A11",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-A12",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-A12",
+    "slot": "DIMM-A12",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.CPU-B",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "CPU-B",
+    "slot": "CPU-B",
+    "assetType": "cpu",
+    "manufacturer": "AMD",
+    "model": "AMD EPYC 9555",
+    "status": "online",
+    "description": "64 cores / 128 threads · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-B01",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-B01",
+    "slot": "DIMM-B01",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-B02",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-B02",
+    "slot": "DIMM-B02",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-B03",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-B03",
+    "slot": "DIMM-B03",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-B04",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-B04",
+    "slot": "DIMM-B04",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-B05",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-B05",
+    "slot": "DIMM-B05",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-B06",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-B06",
+    "slot": "DIMM-B06",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-B07",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-B07",
+    "slot": "DIMM-B07",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-B08",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-B08",
+    "slot": "DIMM-B08",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-B09",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-B09",
+    "slot": "DIMM-B09",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-B10",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-B10",
+    "slot": "DIMM-B10",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-B11",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-B11",
+    "slot": "DIMM-B11",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.DIMM-B12",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "DIMM-B12",
+    "slot": "DIMM-B12",
+    "assetType": "memory",
+    "manufacturer": "Unspecified",
+    "model": "64 GB DDR5",
+    "status": "online",
+    "description": "6400 MT/s · configured inventory"
+  },
+  {
+    "id": "SERVER-02.NIC-25G-01",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "NIC-25G-01",
+    "slot": "NIC-25G-01",
+    "assetType": "network",
+    "manufacturer": "Unspecified",
+    "model": "25 GbE interface",
+    "status": "online",
+    "description": "Configured interface · link state unavailable"
+  },
+  {
+    "id": "SERVER-02.NIC-25G-02",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "NIC-25G-02",
+    "slot": "NIC-25G-02",
+    "assetType": "network",
+    "manufacturer": "Unspecified",
+    "model": "25 GbE interface",
+    "status": "online",
+    "description": "Configured interface · link state unavailable"
+  },
+  {
+    "id": "SERVER-02.NIC-100G-01",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "NIC-100G-01",
+    "slot": "NIC-100G-01",
+    "assetType": "network",
+    "manufacturer": "Unspecified",
+    "model": "100 GbE interface",
+    "status": "online",
+    "description": "Configured interface · link state unavailable"
+  },
+  {
+    "id": "SERVER-02.NIC-100G-02",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "NIC-100G-02",
+    "slot": "NIC-100G-02",
+    "assetType": "network",
+    "manufacturer": "Unspecified",
+    "model": "100 GbE interface",
+    "status": "online",
+    "description": "Configured interface · link state unavailable"
+  },
+  {
+    "id": "SERVER-02.NIC-100G-03",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "NIC-100G-03",
+    "slot": "NIC-100G-03",
+    "assetType": "network",
+    "manufacturer": "Unspecified",
+    "model": "100 GbE interface",
+    "status": "online",
+    "description": "Configured interface · link state unavailable"
+  },
+  {
+    "id": "SERVER-02.NIC-100G-04",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "NIC-100G-04",
+    "slot": "NIC-100G-04",
+    "assetType": "network",
+    "manufacturer": "Unspecified",
+    "model": "100 GbE interface",
+    "status": "online",
+    "description": "Configured interface · link state unavailable"
+  },
+  {
+    "id": "SERVER-02.BOSS",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "BOSS",
+    "slot": "BOSS",
+    "assetType": "storage",
+    "manufacturer": "Dell",
+    "model": "BOSS",
+    "status": "online",
+    "description": "Boot storage controller · configured inventory"
+  },
+  {
+    "id": "SERVER-02.BOSS-M2-01",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "BOSS-M2-01",
+    "slot": "BOSS-M2-01",
+    "assetType": "storage",
+    "manufacturer": "Unspecified",
+    "model": "960 GB NVMe M.2",
+    "status": "online",
+    "description": "BOSS boot drive · configured inventory"
+  },
+  {
+    "id": "SERVER-02.BOSS-M2-02",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "BOSS-M2-02",
+    "slot": "BOSS-M2-02",
+    "assetType": "storage",
+    "manufacturer": "Unspecified",
+    "model": "960 GB NVMe M.2",
+    "status": "online",
+    "description": "BOSS boot drive · configured inventory"
+  },
+  {
+    "id": "SERVER-02.SSD-01",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "SSD-01",
+    "slot": "SSD-01",
+    "assetType": "storage",
+    "manufacturer": "Unspecified",
+    "model": "3.2 TB SSD",
+    "status": "online",
+    "description": "Data drive · configured inventory"
+  },
+  {
+    "id": "SERVER-02.SSD-02",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "SSD-02",
+    "slot": "SSD-02",
+    "assetType": "storage",
+    "manufacturer": "Unspecified",
+    "model": "3.2 TB SSD",
+    "status": "online",
+    "description": "Data drive · configured inventory"
+  },
+  {
+    "id": "SERVER-02.SSD-03",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "SSD-03",
+    "slot": "SSD-03",
+    "assetType": "storage",
+    "manufacturer": "Unspecified",
+    "model": "3.2 TB SSD",
+    "status": "online",
+    "description": "Data drive · configured inventory"
+  },
+  {
+    "id": "SERVER-02.SSD-04",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "SSD-04",
+    "slot": "SSD-04",
+    "assetType": "storage",
+    "manufacturer": "Unspecified",
+    "model": "3.2 TB SSD",
+    "status": "online",
+    "description": "Data drive · configured inventory"
+  },
+  {
+    "id": "SERVER-02.SSD-05",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "SSD-05",
+    "slot": "SSD-05",
+    "assetType": "storage",
+    "manufacturer": "Unspecified",
+    "model": "3.2 TB SSD",
+    "status": "online",
+    "description": "Data drive · configured inventory"
+  },
+  {
+    "id": "SERVER-02.SSD-06",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "SSD-06",
+    "slot": "SSD-06",
+    "assetType": "storage",
+    "manufacturer": "Unspecified",
+    "model": "3.2 TB SSD",
+    "status": "online",
+    "description": "Data drive · configured inventory"
+  },
+  {
+    "id": "SERVER-02.SSD-07",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "SSD-07",
+    "slot": "SSD-07",
+    "assetType": "storage",
+    "manufacturer": "Unspecified",
+    "model": "3.2 TB SSD",
+    "status": "online",
+    "description": "Data drive · configured inventory"
+  },
+  {
+    "id": "SERVER-02.SSD-08",
+    "parentId": "SERVER-02",
+    "type": "component",
+    "name": "SSD-08",
+    "slot": "SSD-08",
+    "assetType": "storage",
+    "manufacturer": "Unspecified",
+    "model": "3.2 TB SSD",
+    "status": "online",
+    "description": "Data drive · configured inventory"
+  }
+]
